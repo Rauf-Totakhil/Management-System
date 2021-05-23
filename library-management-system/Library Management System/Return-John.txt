@@ -1,0 +1,6 @@
+                Library Management System 
+                   Returned By: John
+    Date: 2020-07-28    Time:23:33:04.521716
+
+S.N.		Bookname		Cost
+1		Pokemon		$2

@@ -1,0 +1,9 @@
+[{
+	"question": "PHP files have a default file extension of?",
+	"options": ["A. HTML", 
+		"B. XML", 
+		"C. PHP", 
+		"D. PH"],
+	"answer": "C. PHP"
+}
+]
